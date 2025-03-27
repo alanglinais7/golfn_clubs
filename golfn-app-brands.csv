@@ -1,0 +1,966 @@
+BrandID,Brand Name,Updated
+1,Fitting Korea,FALSE
+2,Champion Sports,FALSE
+3,Kamui Works Japan,FALSE
+4,MLA Golf,FALSE
+5,Jordan Golflogne GmbH & Kg,FALSE
+6,MK Trading,FALSE
+7,Arts & Golf Workshop,FALSE
+8,Hexus Japan,FALSE
+9,Renegar Golf,FALSE
+10,Blade Runner Golf,TRUE
+11,Avoda Golf,FALSE
+12,Zelon Japan,FALSE
+13,Justick,FALSE
+14,Lawson Link,FALSE
+15,Decathlon SE,FALSE
+16,Trialmpany Limited,FALSE
+17,Sports Brands,FALSE
+18,Golfsmith International,TRUE
+19,Sukira Golf,FALSE
+20,Ballistic Golf,FALSE
+21,Ben Hogan Golf Equipment,TRUE
+22,Takomo Golfmpany,FALSE
+23,Sumitomo Rubber Industries,FALSE
+24,Forging Technologies (Formerly Gimar Golf),FALSE
+25,Composite Techno,TRUE
+26,Golphin,FALSE
+27,K-Mat GmbH Golf Division,FALSE
+28,Oxylane Inesis,FALSE
+29,Ryoma Golf,FALSE
+30,Grindworksmpany Limited,FALSE
+31,Harima Golf,FALSE
+32,La Jolla Club Golfmpany,FALSE
+33,Made To Measure Golf GmbH & KG (MTM Golf),TRUE
+34,G P S,TRUE
+35,Golfsmart(M)SDN BHD,FALSE
+36,MTM Golf (Made To Measure Golf GmbH & KG),TRUE
+37,Cleveland Golf,FALSE
+38,Nakashima Golf,FALSE
+39,Pro-Tract Golf Equipment,FALSE
+40,JJB Sports,FALSE
+41,Better Golf Unlimited/Razor Golf,FALSE
+42,Zodiampany Limited,FALSE
+43,Potter Enterprises,FALSE
+44,The Dream Golf,FALSE
+45,Ram Golf,FALSE
+46,New Level Golf,FALSE
+47,Freiheit,FALSE
+48,Globeride (Daiwa Seiko),FALSE
+49,Evangelist Japan,FALSE
+50,Big Apple Golf,FALSE
+51,Noble Golf Sports Limited,FALSE
+52,Direct Golf Uk,FALSE
+53,Epon Golf North America,FALSE
+54,Golf Korea,TRUE
+55,T&D,TRUE
+56,John Letters (Formerly John Letters Golf Limited),FALSE
+57,John Elmer Golf,FALSE
+58,Grand Prix,FALSE
+59,Callaway Golf,FALSE
+60,Alien Golf,FALSE
+61,Lenzini Golf,FALSE
+62,New Ground Golf,FALSE
+63,Jopro,FALSE
+64,Nicklaus Golf Equipment LC,TRUE
+65,Maruman Golf,FALSE
+66,Katana Golf,FALSE
+67,Lynx Golf,FALSE
+68,Element 21 Golf,FALSE
+69,Face Forward Technologies,FALSE
+70,LRDC,FALSE
+71,Value Plus,FALSE
+72,Turf,FALSE
+73,Japan Golf Equipment,FALSE
+74,BiG Bioengineered in Germany,TRUE
+75,Burrows Golf,FALSE
+76,Waoww,FALSE
+77,Masters,FALSE
+78,P&P Imports,FALSE
+79,Coates Golf,FALSE
+80,Kanamori (Gorilla Golf),FALSE
+81,Besta Golf,FALSE
+82,PowerBilt Golf,FALSE
+83,Piretti Golf,FALSE
+84,Work's,FALSE
+85,Scripps Golf,TRUE
+86,Charles Claire LLP,FALSE
+87,Kayson Golf,FALSE
+88,Cutter Golf,FALSE
+89,Dick's Sporting Goods,FALSE
+90,Vertical Groove Golf,FALSE
+91,Birth,FALSE
+92,Cobra PUMA Golf,FALSE
+93,George Spirits,FALSE
+94,GabeGolf,FALSE
+95,Short Game,FALSE
+96,Maretec,FALSE
+97,One Fox,FALSE
+98,Cobra-PUMA Golf,FALSE
+99,Qvis International,FALSE
+100,Golf Knack,FALSE
+101,Momentus Golf,FALSE
+102,Pure Spin Golf,TRUE
+103,Gary Woolgar,FALSE
+104,Ever Green,FALSE
+105,AM Golf Equipment,FALSE
+106,Daishin Golfmpany,FALSE
+107,Face Forward Technologies,TRUE
+108,Delta Industry,FALSE
+109,Seiko Sports Life,FALSE
+110,Koei Golf,FALSE
+111,Globeride,FALSE
+112,Slazenger Golf,FALSE
+113,TaylorMade-adidas Golf,FALSE
+114,Big Fish Golf Holdings PG,FALSE
+115,Japana,FALSE
+116,Honshin Sports Pte,FALSE
+117,PR Dionne,TRUE
+118,Nicen,FALSE
+119,Medicus/Kick X,FALSE
+120,Climb Free,FALSE
+121,Punch Golf,FALSE
+122,TeeOlive LLP,FALSE
+123,Tour Edge Golf Mfg,TRUE
+124,Sub 70 Golf,FALSE
+125,Smithworks Golf,FALSE
+126,Bronty Golfmpany Limited,FALSE
+127,Fore'bes,FALSE
+128,Harada &,TRUE
+129,Kenichi Studio (Kenichi Korea),FALSE
+130,Adams Golf,FALSE
+131,Advance Products GmbH (previously called K-Mat GmbH Golf Devision),FALSE
+132,Winbird,FALSE
+133,Carnahan Golf,FALSE
+134,PING,TRUE
+135,Riyo Golf Korea,TRUE
+136,Cosmo Golfmpany,FALSE
+137,PG Trading C,FALSE
+138,Tommy Armour Golf Limited,FALSE
+139,Snake Eyes Golf,FALSE
+140,Crews,FALSE
+141,GV Golf Korea,FALSE
+142,GTD Golf,FALSE
+143,Golf Tailor,FALSE
+144,Universal Sports,FALSE
+145,Kentack Golf,FALSE
+146,Yamaha,FALSE
+147,JR Golf,TRUE
+148,Koei Golf Seisakusho,FALSE
+149,Edel Golf,FALSE
+150,Founders Club,FALSE
+151,GFoss Global Golfmpany (GFoss Korea Golfmpany),FALSE
+152,MCM Golf,FALSE
+153,Axis Golf,FALSE
+154,The Royal Lifestyle,FALSE
+155,New Art Sports,FALSE
+156,Progress,FALSE
+157,Central Kosho,FALSE
+158,George Spirits Golf,FALSE
+159,Nike Golf,FALSE
+160,Bridgestone Sports,FALSE
+161,MGolf International AS,FALSE
+162,Tokai Golf,FALSE
+163,Chujo,FALSE
+164,Fine-Tunedmponents,FALSE
+165,Wako Enterprise,FALSE
+166,KDX Golf,FALSE
+167,Nickent Golf Equipment,FALSE
+168,Hana,FALSE
+169,Big Fish Leisure Sports Development PTE,FALSE
+170,Plus 2 International,TRUE
+171,HM Golf Korea,FALSE
+172,Fuso Electric Industrial,TRUE
+173,GolfNCo (E2Golf),FALSE
+174,Kenichi Golf,FALSE
+175,The Open,FALSE
+176,Jason Fitting Solution,FALSE
+177,Eiger Enterprise,FALSE
+178,Foshan Yibang Golf Goods Limited,FALSE
+179,Hilco-TAG,FALSE
+180,GV Golf Korea,FALSE
+181,TaylorMade Golfmpany,FALSE
+182,Redfil SL,FALSE
+183,Top Flite Golf,FALSE
+184,KMJ,FALSE
+185,Cobra Golf,TRUE
+186,Point n Putt PTY,FALSE
+187,Milford Golf,FALSE
+188,Khan Golf,FALSE
+189,Smashfactor Golf,FALSE
+190,Fourteen,FALSE
+191,Maruman &,FALSE
+192,Chassis Golf,FALSE
+193,Jason Golf,FALSE
+194,Pinhawk Golf,FALSE
+195,Hakusa Golf Europe (Golf Club Docteur),FALSE
+196,David,FALSE
+197,Grind Golf Clubs,FALSE
+198,Performance Golf,FALSE
+199,Brosnan Golf Australia,FALSE
+200,Iomic,FALSE
+201,Lovett Golfmpany,FALSE
+202,Even Golf,FALSE
+203,Kasco,FALSE
+204,Prestige Golf,FALSE
+205,Japana (Golf Planner),FALSE
+206,Orlimar Golf,FALSE
+207,Boccieri Golf,FALSE
+208,Stadium AB,FALSE
+209,Feel Golfmpany,FALSE
+210,HYK Design,FALSE
+211,Bobby Jones Golf,FALSE
+212,Edison Golfmpany,FALSE
+213,Studio CGA,FALSE
+214,1879,TRUE
+215,Erics Golf Lab,FALSE
+216,Circle Creek P/L Trading as Prosimmon Golf,TRUE
+217,BombTech Golf,FALSE
+218,Mirai Sports,FALSE
+219,Best Tech,FALSE
+220,Delta Sport Handelshontor GmbH,FALSE
+221,B&J Golf,FALSE
+222,Epon Golf,FALSE
+223,Hirota Golf,FALSE
+224,Txema,TRUE
+225,Asahi Golf,FALSE
+226,Doctor Golf,FALSE
+227,Sandbully,FALSE
+228,Monstar and Psycho Golf,FALSE
+229,Fairway Club,FALSE
+230,Yonex,FALSE
+231,AGFA GOLF,FALSE
+232,Tokita AC (A M C),FALSE
+233,Royalllection,FALSE
+234,Burke Golf LLP,FALSE
+235,Miura Golf,FALSE
+236,Honma Golf,FALSE
+237,ARGOLF,FALSE
+238,Weszty Golf,FALSE
+239,IZZO Golf,FALSE
+240,Haywood Golf,FALSE
+241,Williams Racing Golf,FALSE
+242,Orka Golf,FALSE
+243,Professional Golf Equipment Pty,FALSE
+244,Caley,FALSE
+245,Kick X Golf,FALSE
+246,Ohtex,FALSE
+247,Ryobi Limited,FALSE
+248,King Par,FALSE
+249,Three Luck,FALSE
+250,Professional Golf Europe,FALSE
+251,Saga,FALSE
+252,Wedge FX,FALSE
+253,Works,FALSE
+254,Pyramid Golf,FALSE
+255,MacGregor Golf,TRUE
+256,Prestige Golf (UK),FALSE
+257,Royalllection,FALSE
+258,US Kids Golf,TRUE
+259,Macgregor Golf Japan,FALSE
+260,PRGR (Yokohama Rubber),FALSE
+261,Advance,FALSE
+262,Howson Sports UK Limited,FALSE
+263,Kolon Industries,TRUE
+264,J E Net ,FALSE
+265,Fujiki,FALSE
+266,Indi Golf,FALSE
+267,Pinemeadow Golf Products (dba Carnahan Golf),TRUE
+268,Miura Giken,FALSE
+269,Tom Wishon Golf Technology,FALSE
+270,VLS Golf,FALSE
+271,Tsuruya Golf,FALSE
+272,Keigekiku,FALSE
+273,Lynx,FALSE
+274,Scratch Golf,FALSE
+275,A Design Golf,FALSE
+276,Rife Golf,FALSE
+277,Beijing Pengcheng Youzhi Sports Equipment Development,FALSE
+278,Sumitomo Rubber Industries,FALSE
+279,O-TA Precision Industry,FALSE
+280,Solus Golf,FALSE
+281,Warrior Custom Golf,FALSE
+282,TTO,FALSE
+283,Xiamen Jasde Sports Equipment,TRUE
+284,Qookai,FALSE
+285,Momentus Sports,FALSE
+286,Fuji Kihanmpany Limited,FALSE
+287,Top-Flite Golfmpany,FALSE
+288,GND golf,FALSE
+289,Formerly JAMA Golf,FALSE
+290,Hireko Golf,FALSE
+291,Bigme Golf,FALSE
+292,Callaway Golfmpany,FALSE
+293,Gria Golf,TRUE
+294,Gracieux Art Design,FALSE
+295,TourShot Golf,TRUE
+296,RXS Design,FALSE
+297,Ikasu Golf,FALSE
+298,Foreward Golf,FALSE
+299,Stun,FALSE
+300,Williams,FALSE
+301,Gauge Design Golf,FALSE
+302,Kyoei Golf Industry,FALSE
+303,Razor Golf,FALSE
+304,Millicent Golf Equipment,FALSE
+305,TDG,FALSE
+306,Golf Lab G Select,FALSE
+307,Superkit Sporting Goods,FALSE
+308,1 Iron Golf,TRUE
+309,Millennium Golf,FALSE
+310,SSP,FALSE
+311,ACT,FALSE
+312,The Golfworks,FALSE
+313,Henry-Griffitts,TRUE
+314,Ben Hoganmpany,FALSE
+315,J Greed,TRUE
+316,KZG,FALSE
+317,Mizuno,FALSE
+318,Greaton,FALSE
+319,Hono Golf Enterprise,FALSE
+320,Crosscut Wedge,TRUE
+321,Big Shot Golf,FALSE
+322,Dagalo,FALSE
+323,SM Global,TRUE
+324,Scott Golf USA LC,FALSE
+325,DeLaCruz Golf,FALSE
+326,iGen Golf,FALSE
+327,Yamagata Window,FALSE
+328,Eon Sports,FALSE
+329,Carbite Golf,FALSE
+330,Club Factory GmbH,FALSE
+331,Swing Puzzle,FALSE
+332,Knuth Golf,TRUE
+333,Logical One Golf,FALSE
+334,Bettinardi Golf,FALSE
+335,Axis Golf Denmark,FALSE
+336,Oxylane,FALSE
+337,DDK,TRUE
+338,MFS Korea,FALSE
+339,Pro - One Golf,FALSE
+340,Mevaeru,FALSE
+341,The Club Nut,FALSE
+342,Golf Reve,FALSE
+343,TGL,FALSE
+344,Wilson Sporting Goods,FALSE
+345,Jucie,FALSE
+346,Piranha Golf,FALSE
+347,Ming Ging Golf,FALSE
+348,Benross Golf,FALSE
+349,BIG Stealex GmbH,TRUE
+350,Pathfinder CTD,TRUE
+351,Golf Partner,FALSE
+352,Swing Science,TRUE
+353,Solinco,FALSE
+354,Yoshimura Golf,FALSE
+355,JP Golf,FALSE
+356,Haraken,FALSE
+357,George Spirits,FALSE
+358,Vietnam Nason Joint Stockmpany,FALSE
+359,Marken-Golf,FALSE
+360,Specialist Golf Limited,FALSE
+361,Fujimoto GikohLtd,TRUE
+362,Golf Design INTL,FALSE
+363,Flynn Golf,FALSE
+364,Yardstick,FALSE
+365,F2 Golf,FALSE
+366,Eidolon Brands,TRUE
+367,Golf-Do,FALSE
+368,Pigeon Golf,FALSE
+369,PXG-Parsons Xtreme Golf,FALSE
+370,Southern California Designmpany,FALSE
+371,Iracon GmbH,FALSE
+372,Mutant Golf,FALSE
+373,Donnay Golf,FALSE
+374,Hopkins Golf,FALSE
+375,Firstmpany Limited,FALSE
+376,Big Fish Golf International Pte,FALSE
+377,kenichi Korea (Kenichi Studio),FALSE
+378,Masdagolf,FALSE
+379,Golf Premium,FALSE
+380,J Golf,FALSE
+381,Muziik,FALSE
+382,Progen,FALSE
+383,G Force Golf,FALSE
+384,Elmer Golf Technologies (Pty),FALSE
+385,Geotech Golfmponents,FALSE
+386,Kenmotsu Golf Equipment Manufacturing,FALSE
+387,Mashie Cleek,FALSE
+388,Akira Products,FALSE
+389,Millennium Golf AS,FALSE
+390,Avanti,FALSE
+391,DTB Golf,FALSE
+392,Worldwide Golf Brands,FALSE
+393,Titleist,FALSE
+394,Chiyoda,FALSE
+395,Simon Golfmpany,FALSE
+396,Stix Golf,TRUE
+397,Guardian Golf,FALSE
+398,Clubmakers Korea,TRUE
+399,Diamond Tour Golf,FALSE
+400,Blue Lotus,FALSE
+401,Spalding Sports Worldwide,FALSE
+402,Diamond Golf International,FALSE
+403,Betrian,FALSE
+404,Alpen,FALSE
+405,Traditional Sport Limited,FALSE
+406,Lazrus Golf,FALSE
+407,Roir Japan,FALSE
+408,XXIO,FALSE
+409,Todd Demsey,FALSE
+410,Yes,FALSE
+411,Zebra,FALSE
+412,Titleist Scotty Cameron,FALSE
+413,Sik,FALSE
+414,Cure,FALSE
+415,Nordberg,FALSE
+416,See More,FALSE
+417,Kramski,FALSE
+418,Sacks Parente,FALSE
+419,STX,FALSE
+420,Swag,FALSE
+421,Volvendum,FALSE
+422,Tyson Lamb,FALSE
+423,Titleist,FALSE
+424,Bloodline,FALSE
+425,Bobby Grace,FALSE
+426,Brandon Matthew,FALSE
+427,Srixon,FALSE
+428,Tear Drop,FALSE
+429,Embrace Putters,FALSE
+430,Vega,FALSE
+431,Kirkland,FALSE
+432,Kenny Giannini,FALSE
+433,Nevermpromise,FALSE
+434,Artisan,FALSE
+435,TP Mills,FALSE
+436,Kevin Burns,FALSE
+437,Kingston,FALSE
+438,Clay Long,FALSE
+439,Guerin Rife,FALSE
+440,Makefield,FALSE
+441,Dean Wilson,FALSE
+442,Royalty,FALSE
+443,Meridian,FALSE
+444,Black Lab Golf,FALSE
+445,Toulon Design,FALSE
+446,Weston Maughan Golf,FALSE
+447,Evnroll,FALSE
+448,Brainstorm Golf,FALSE
+449,New Legend Golf,FALSE
+450,Kronos,FALSE
+451,LAB Golf,TRUE
+452,LA Golf,FALSE
+453,Logan Olson,FALSE
+454,Longbow,FALSE
+455,Odyssey,FALSE
+456,300 Yardscom,TRUE
+457,A M C (Tokita AC),FALSE
+458,Accumade,TRUE
+459,Acropolis Golf,FALSE
+460,Adller Japan,FALSE
+461,Advanced Golf Technology,FALSE
+462,AIBM,FALSE
+463,Aichi Steel,FALSE
+464,AJ Antonious,TRUE
+465,Akia Golf,FALSE
+466,Alien Sports,TRUE
+467,All New Flying Golf,FALSE
+468,All Out Golf,FALSE
+469,ALTR Golf,FALSE
+470,Amer Sports Japan (Wilson),FALSE
+471,Amer Sports UK,FALSE
+472,Amur Golf,FALSE
+473,Aoi,FALSE
+474,Apilch Golf,TRUE
+475,Armortek Sports,TRUE
+476,Arrowtechmpany,FALSE
+477,Aserta Sports,TRUE
+478,Ashton Golf,FALSE
+479,Ashton Golf,TRUE
+480,Aspec,FALSE
+481,Athlete Mind,FALSE
+482,Atop Golf,FALSE
+483,Avatar Golf,TRUE
+484,Ball Killer Golf,FALSE
+485,Bang Golf Japan,FALSE
+486,Bang Golf,TRUE
+487,Bavaria Golf International,FALSE
+488,Beijing FeiYang Sports Development,FALSE
+489,Beijing Ns Golf,FALSE
+490,Belair,FALSE
+491,Belly Golf/Hangtime Golf,TRUE
+492,Ben Sayers Golf,FALSE
+493,BFG Golf PTE,FALSE
+494,Biam General Titanium,FALSE
+495,Bio-Mechanical Golf Accademy,FALSE
+496,Black Diamond Golf,FALSE
+497,Black Titanium Golf,TRUE
+498,Blade Golf,FALSE
+499,Blue Hawk Golf,FALSE
+500,Break,FALSE
+501,Brian Symonds Golf Design,FALSE
+502,Bright Wish International (HK),TRUE
+503,British Golfmponents,FALSE
+504,Brosnan Golf,FALSE
+505,Brute Golf GmbH,FALSE
+506,BRUTE Golf,TRUE
+507,Brutus Golf,TRUE
+508,Byron Butler Golf,TRUE
+509,Byron Trade,FALSE
+510,Caido Golf,FALSE
+511,Caldwell Golf,TRUE
+512,Camzestaim Korea,TRUE
+513,Cana Golf,FALSE
+514,Ceramix Golf,TRUE
+515,Chicago Classics Golf,TRUE
+516,Chrisco Golf AS,FALSE
+517,Cisco,FALSE
+518,Classic Golf UK,FALSE
+519,Cles,FALSE
+520,Coldfire Golf,FALSE
+521,Colven Golf,FALSE
+522,Concept,FALSE
+523,Consistentee Golf,FALSE
+524,Continental Golf/Carolina Custom Golf,FALSE
+525,Cor LeonisLtd,TRUE
+526,Cornerstone Golf,TRUE
+527,Cosmo Ec,TRUE
+528,Cougar Golf Australia,FALSE
+529,Crazy,FALSE
+530,Creato,FALSE
+531,Cryofire Golf,FALSE
+532,CT Golfsport,FALSE
+533,Cubic Balance Golf Technology,TRUE
+534,Custom Built Golf Clubs,FALSE
+535,DAB Korea,TRUE
+536,Daiichi Giken,FALSE
+537,Daiichi Golf,FALSE
+538,Daruot Trading (HK),FALSE
+539,DCG Global Solutions,FALSE
+540,Dean Ota Enterprises,FALSE
+541,Delta Golf (UK),TRUE
+542,Design Tuning,FALSE
+543,Designer Golf Limited,FALSE
+544,Diabang Japan,FALSE
+545,Dimension Z Golf,TRUE
+546,Doi Golf,TRUE
+547,Dono Sports ,FALSE
+548,Dormy Golf,FALSE
+549,Dream Golf Service,FALSE
+550,DTM Sports,FALSE
+551,Dunlop Slazenger Equipment,FALSE
+552,Dunlop Sports (SRI Sports Limited),FALSE
+553,Dunlop Sports Group Americas,FALSE
+554,Dyna Golf,FALSE
+555,Dynacraft Golf Products,TRUE
+556,Dynacraft International,FALSE
+557,Dynamic Duo,FALSE
+558,EX Golf,TRUE
+559,Ebalon/XM Works,FALSE
+560,Elite Sports Brands,FALSE
+561,ENA,FALSE
+562,Ena Golf,TRUE
+563,Endeavor,FALSE
+564,Endo Manufacturing,FALSE
+565,eSports,FALSE
+566,Estivant Golf,FALSE
+567,ET Japan,FALSE
+568,Etimo,FALSE
+569,Euro Sports,FALSE
+570,Evisu Japan,TRUE
+571,Excedo Golf/Sonartec,FALSE
+572,Exe,FALSE
+573,Fanatik Golf,FALSE
+574,Farrar Golf Industries,FALSE
+575,Fazer Japan,FALSE
+576,Fine Edge Golf Equipment,FALSE
+577,Fister Golfmpany,FALSE
+578,Fnc Kolon,FALSE
+579,Focus Golf Systems,TRUE
+580,Foresta,FALSE
+581,Formerly:Takarazuka Golf Shop,FALSE
+582,From J,FALSE
+583,Fujimi,FALSE
+584,Fujix,FALSE
+585,Fukuoka Kankokaihatsu,FALSE
+586,Fukusui Golf Kyoshitsu,FALSE
+587,Fukuyama Golf,FALSE
+588,GPS,TRUE
+589,Geek Golf,FALSE
+590,Giant Golf,TRUE
+591,Giga,FALSE
+592,GigaGolf,TRUE
+593,Gilligan's Custom Golf,FALSE
+594,Globeride,TRUE
+595,GMU,FALSE
+596,GMU Kaihatsu,FALSE
+597,Golden Ratio,FALSE
+598,Golden Visionnsultants Limited,FALSE
+599,Golf Buhin,FALSE
+600,Golf Club Koshin,FALSE
+601,Golf Design,FALSE
+602,Golf Digest Sha,FALSE
+603,Golf Korea,TRUE
+604,Golf Planner,FALSE
+605,Golf Studio,FALSE
+606,Golf System LTD,TRUE
+607,Golf System Works,FALSE
+608,GolfGear International,FALSE
+609,Golfhands,FALSE
+610,GolfNCo (E2 Golf),FALSE
+611,Golfstore Group AB,FALSE
+612,Gosen,FALSE
+613,Grand Golfmpany,TRUE
+614,Gravity,FALSE
+615,Green Grass Golfrp,TRUE
+616,Green Salon I,FALSE
+617,Greenclub,FALSE
+618,GTS Golf USA,FALSE
+619,Gyro Sports,FALSE
+620,Haimeru Japan,FALSE
+621,Hal Sports Production,TRUE
+622,Hamaguchi Golf,FALSE
+623,Hangtime Golf,FALSE
+624,Hathaway Golf,FALSE
+625,He Weng Golf,FALSE
+626,HEAD USA,TRUE
+627,Heavy Putter,TRUE
+628,Herald Golf,FALSE
+629,Hero,FALSE
+630,HiPPO Golf,FALSE
+631,Hippo Golf,TRUE
+632,Hirama Golf Service,FALSE
+633,Hog Golf/Dogleg Right,FALSE
+634,Hokus hin Trading,TRUE
+635,Hollywood Golf Studio (See US Tour),FALSE
+636,Hono Golf Enterprise,TRUE
+637,Honshin Marketing Services,FALSE
+638,Hopeful,FALSE
+639,HorsepowerGolfcom,TRUE
+640,House of Forged,FALSE
+641,Hybrid Sports Group,FALSE
+642,I N C Yamamoto Pro Golf Shop,FALSE
+643,Iguana Pro Golf,FALSE
+644,IIRUX,FALSE
+645,Ikeda,FALSE
+646,Imagine Golf Tech,FALSE
+647,Impact Golf Technologies,FALSE
+648,Infiniti Golf,TRUE
+649,Inflite Golf,TRUE
+650,Innovex Golf,TRUE
+651,International Musashi Golf,FALSE
+652,Intersport International,FALSE
+653,IQ Venture Ag,FALSE
+654,ISP,FALSE
+655,Ivy Products,TRUE
+656,Iwataya,FALSE
+657,J Osawa Group,TRUE
+658,JE Net Service,TRUE
+659,Japan Pro Dracom Association,FALSE
+660,Jarog Master Blaster,FALSE
+661,Jaslar Golf,FALSE
+662,Jazz Golf Equipment,TRUE
+663,Jeffmont,FALSE
+664,Jigen,FALSE
+665,John Elmer Golf (Former Izulu Golf and Halcyblox (Pty)),FALSE
+666,John Letters of Scotland,FALSE
+667,Johsho Golf Japan,FALSE
+668,Joy Many,FALSE
+669,Joy Sports,FALSE
+670,JQC Golf,TRUE
+671,Kamui Works USA,TRUE
+672,Kane Golf Products,FALSE
+673,Karstadt Warenhaus GmbH,FALSE
+674,Kawabe Kogyo,FALSE
+675,Kawana Birdie Golf,FALSE
+676,KCC,FALSE
+677,Kent Graphtec (USA),FALSE
+678,Kent Sports,TRUE
+679,Keystone,FALSE
+680,KGST Golf Institute,TRUE
+681,Kitagawa Bussan,FALSE
+682,Kittyhawk,TRUE
+683,KJ Golf,FALSE
+684,Kobayashi Golf,FALSE
+685,Koei Golf Limited,TRUE
+686,Kojima,FALSE
+687,Kokusai Kogyo,TRUE
+688,Komperdell Austria Ges Mbh,FALSE
+689,Komperdell Sportartikel GmbH,FALSE
+690,Korea Kasco,FALSE
+691,Krank Golf,FALSE
+692,Kurio,FALSE
+693,Kutsuma,FALSE
+694,Kyowa Golf,FALSE
+695,L$D Golf Clubs,FALSE
+696,Lake Golf,FALSE
+697,Lark Sports,FALSE
+698,Lauden Golf,TRUE
+699,Lezax,FALSE
+700,Limited Koei Golf,TRUE
+701,Lind Golf,FALSE
+702,LinksWalker/ AirSlot,FALSE
+703,Liquidmetal Golf,FALSE
+704,Longhorn Golfmpany,FALSE
+705,Low Pro Golf,FALSE
+706,LSD Golf Clubs,FALSE
+707,Lynx Golf Europe,FALSE
+708,Lynx Golf Limited,FALSE
+709,M-West,FALSE
+710,MG Korea,TRUE
+711,Mackeil Robert F,TRUE
+712,MacLeonard Golf,FALSE
+713,Magnus Golf,FALSE
+714,Majeski Golf,FALSE
+715,Majesty Golf,FALSE
+716,Makser SA,TRUE
+717,Manzanita Golf,FALSE
+718,Mario's Golf Shop,FALSE
+719,Maruman & ,FALSE
+720,Masda Golf,FALSE
+721,Master Grip,FALSE
+722,Masterfit Golf LTD,FALSE
+723,Matsumoto Golf,FALSE
+724,Mattiace Golf,FALSE
+725,Max Soul Golf,FALSE
+726,McHenry Metals Golf,TRUE
+727,McKenly Golf,FALSE
+728,McKenly International ,FALSE
+729,MCM Golf,TRUE
+730,MD Golf,FALSE
+731,MDF Supplies Pte,FALSE
+732,Mercurymposite,FALSE
+733,Meridian (Luton),FALSE
+734,Meridian Golf,FALSE
+735,Merit Golfmpany,FALSE
+736,MG Golf,FALSE
+737,Micro Farm,FALSE
+738,Midas Golf Enterprises LTD,TRUE
+739,Midori Planning,FALSE
+740,Mikesan Golf,FALSE
+741,ML Golf,TRUE
+742,Modart,FALSE
+743,MOI Golf,FALSE
+744,Monark Golf Supply,TRUE
+745,Monstar Psycho,TRUE
+746,Montech Golfmpany,TRUE
+747,Morita Golf,FALSE
+748,Move One,FALSE
+749,MT Global,FALSE
+750,MVI Trading,FALSE
+751,Myway Family Club,FALSE
+752,Nakajima,TRUE
+753,Natural Golf,FALSE
+754,Nestor Golf,FALSE
+755,New Plaza Golf,FALSE
+756,Newport Golf,FALSE
+757,Next Enterprise,FALSE
+758,Next Technology Golf,TRUE
+759,NGC Golf,FALSE
+760,Nihon Golf School,FALSE
+761,Nihon Mechanic,FALSE
+762,Nikko Bussan,FALSE
+763,Nippon Golf,FALSE
+764,Nirvana Golf Technologies,TRUE
+765,Nishiakashi Golf Shop,FALSE
+766,Nisseimpany,FALSE
+767,Northland,FALSE
+768,Nu Tec Golf,TRUE
+769,O'Murray Golf,TRUE
+770,Ohi,FALSE
+771,Option Golf,FALSE
+772,Option Golf International (Pty),FALSE
+773,Orbiter Golf,FALSE
+774,Original,FALSE
+775,Orlimar Golf,FALSE
+776,Orlimar Japan LLC,TRUE
+777,PALGOLF srl,FALSE
+778,Panda Golf,FALSE
+779,Paradise Golf,TRUE
+780,Paragon Sports,FALSE
+781,Parallel Axis Golf,FALSE
+782,Pat Simmons Golf,TRUE
+783,Patsky Bernard J,TRUE
+784,Pentium Sports,FALSE
+785,Photon Golf,TRUE
+786,Phyxius Sports,TRUE
+787,Pineapple Golf Products GmbH,FALSE
+788,Planning Sports,FALSE
+789,Playing Pro,FALSE
+790,PMJ,FALSE
+791,Pole Kat Golf,FALSE
+792,Porsche Design Golf,FALSE
+793,PowerArc,FALSE
+794,Powerbilt Holdings,FALSE
+795,Prairie Golf,FALSE
+796,Precision Japan,FALSE
+797,Precision Made Golf Limited,FALSE
+798,Precision Technology,FALSE
+799,Prime Golf,FALSE
+800,Prince Golf,FALSE
+801,Prince Golf Ent,TRUE
+802,Pro Series Golf Irons,TRUE
+803,Pro Tour Sports,FALSE
+804,Project & Managementnsultants,FALSE
+805,Prosimmon Golf Equipment,FALSE
+806,Protean Products LLC,TRUE
+807,Protex,FALSE
+808,Pure Spin Sports,FALSE
+809,Purefit Golfmpany Sdn Bhd,FALSE
+810,Q Golf (Japan),FALSE
+811,Qest Golf,FALSE
+812,Qoid,TRUE
+813,Quality,FALSE
+814,Quality Golf Products,FALSE
+815,Quantum Leap Golf,TRUE
+816,Quantum Sports Industries,FALSE
+817,RL Zeider,TRUE
+818,Rainbow Golf,TRUE
+819,Rainbow Stone,FALSE
+820,Ram Golf,FALSE
+821,Rational Golf,FALSE
+822,Raven Golf,FALSE
+823,Real Max,FALSE
+824,Real Sports,FALSE
+825,RedBird Sports,TRUE
+826,REFEC Sports Sdn Bhd,FALSE
+827,Retug,FALSE
+828,Retug,TRUE
+829,Rhim Korea,FALSE
+830,Rick's Golf,FALSE
+831,Ridis Golf,FALSE
+832,Riley Golf,FALSE
+833,Rizap InnovationsLtd,TRUE
+834,Roots Golf,FALSE
+835,Royal Tee Golf,TRUE
+836,Ryoka,TRUE
+837,S-Trixx,FALSE
+838,S-Yard,FALSE
+839,Sakamoto Golf Manufacturing,FALSE
+840,Saso Grind Sports,FALSE
+841,Scottish Golf Marketing,FALSE
+842,Seiyu Shoji,TRUE
+843,Senior Golf Shokai,FALSE
+844,Shark Attack Golf,FALSE
+845,Shear-Line Golf,FALSE
+846,Shenzhen Tianying Sportsmpany,FALSE
+847,Shimano,FALSE
+848,Shintomi Golf,FALSE
+849,Sierra Tahoe Golf,FALSE
+850,Sigma Golf (UK) Limited,FALSE
+851,Simpac Golf,FALSE
+852,Single B,FALSE
+853,Sinister Golf,FALSE
+854,Sky Golf,FALSE
+855,SMT Golf,FALSE
+856,SMT/Diamond Tour Golf,FALSE
+857,Solidntacts,FALSE
+858,Solo,FALSE
+859,Speed System Golf,FALSE
+860,Sport Life Planets,FALSE
+861,Sports Network Pte,FALSE
+862,Sports Plc,FALSE
+863,SRI Sports Limited,FALSE
+864,St Andrews Golfmpany,FALSE
+865,Starling's Nest Driving Range,FALSE
+866,Stella Trading,FALSE
+867,Stellar Golfnsulting,TRUE
+868,Straight 8 Golf,TRUE
+869,Straight Arrow Golf,TRUE
+870,Stulz Golf Technologies,FALSE
+871,Sturm Ruger &mpany,TRUE
+872,Suarezrporation,FALSE
+873,Summit Golf,FALSE
+874,Sun Valley Golfmpany,FALSE
+875,Sungreen,FALSE
+876,Sunshine Plus,FALSE
+877,Sunvillage ,FALSE
+878,SuperPower Golfmpany,TRUE
+879,Surpass Golf,FALSE
+880,Swing Sync USA,FALSE
+881,Swingscience Japan,FALSE
+882,Synergy Golf International,TRUE
+883,SZ North Asia LLC,TRUE
+884,Tad Moore Design,FALSE
+885,Tami Sports,FALSE
+886,Team Performance Products,FALSE
+887,Tech Line,FALSE
+888,Tensor Golf,TRUE
+889,The Burke Golf USA,TRUE
+890,The Club Works,FALSE
+891,The Golfast Equip (See Vector Golf),TRUE
+892,The Perfect Club,TRUE
+893,The Royalllection,TRUE
+894,The Sixty Niners ,FALSE
+895,The Stewart & Stewart,TRUE
+896,Thomas Golf,FALSE
+897,Thunder Golf,TRUE
+898,Tiger Shark Golf,FALSE
+899,Tiger Sports,TRUE
+900,Titanium Metal Works,FALSE
+901,TLF Nordic AB,FALSE
+902,TMJ,FALSE
+903,Tommy Armour Golfmpany,FALSE
+904,Toski Golfmpany,FALSE
+905,Tour Dynamix,FALSE
+906,Tour Golf Products/Mars Golf,FALSE
+907,Tour Project,FALSE
+908,TourSwing Golf,FALSE
+909,Traditional Golf Equipment,TRUE
+910,Trinity Golf,FALSE
+911,Trophy Sports,TRUE
+912,TRPX,FALSE
+913,True Custom,FALSE
+914,TSHOTS GOLF,FALSE
+915,Turnermmunications Int'l,TRUE
+916,TV Club,FALSE
+917,Two and One,FALSE
+918,U-I Golf System,FALSE
+919,US Powergolf,TRUE
+920,Unique Golf,FALSE
+921,Upswing Golf,FALSE
+922,US TOUR/International Sports CNS,TRUE
+923,USP Brands,FALSE
+924,USPG Enterprises,FALSE
+925,V-Flyte-Golf ,FALSE
+926,Vadersen Design Group,FALSE
+927,Vainqueur,FALSE
+928,Vector Golf dba The Golfast Fitting Centers,FALSE
+929,Venson,FALSE
+930,Versus Golf,FALSE
+931,Vertical Groove Golf,TRUE
+932,VEX Golf,FALSE
+933,Vice Sporting Goods GMBH,FALSE
+934,Victradco,FALSE
+935,Vision Creative,TRUE
+936,Voco (UK),FALSE
+937,Vulcan Golf,FALSE
+938,VyaTek Sports/DnA Golf,FALSE
+939,Walk Golf GmbH,FALSE
+940,Wave Golf Systems,TRUE
+941,Wayo Golf,FALSE
+942,Westland Golf,FALSE
+943,Williams Sports,FALSE
+944,Work's,TRUE
+945,WTRT,FALSE
+946,X-Mikede,TRUE
+947,Xebio,FALSE
+948,Xfactor Sports,FALSE
+949,Xiamen Solotoo Sporting Goods,FALSE
+950,XM Works dba Ebalon Golf,TRUE
+951,Yamamoto Pro Golf Shop,FALSE
+952,Yamatorporation,FALSE
+953,Yamato Golf Gearllection,FALSE
+954,Yes Putter Korea,FALSE
+955,YH Design ,FALSE
+956,Yokohama Rubber,TRUE
+957,Yuji Golf Pte,FALSE
+958,Yuji Numazawa Golf Design,FALSE
+959,Yutaka Sangyou,FALSE
+960,Zano Golf,FALSE
+961,Zero GolfLtd,TRUE
+962,Zero Tolerance Golf,FALSE
+963,Zevo Golfmpany,FALSE
+964,Zodia ,FALSE
+965,Zone International BV,FALSE
